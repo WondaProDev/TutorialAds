@@ -1,0 +1,4 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+appname_remove_ads,published,managed_by_android,false,en_US;Remove Ads;Remove Ads,true,2990000,
+appname_get_gems_1,published,managed_by_android,false,en_US;Get Gems;Get 1000 gems,true,990000,
+appname_get_gems_2,published,managed_by_android,false,en_US;Get Gems;Get 5000 Gems,true,4990000,
